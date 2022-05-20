@@ -2,6 +2,9 @@
 
 
 <div align=center>
+# Welcome👋
+안녕하세요 백엔드 개발자 우인혁입니다.
+sacrom@naver.com
         
 # ⚡Tech Stack⚡
         
