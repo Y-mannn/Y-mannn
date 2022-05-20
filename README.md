@@ -12,7 +12,8 @@
 [![mysql badge](https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge)]() <br>
 [![Spring badge](https://img.shields.io/badge/Spring%20Framework-6DB33F?logo=Spring&logoColor=white&style=for-the-badge)]()
 [![Boot badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring%20Boot&logoColor=white&style=for-the-badge)]()
-[![thymeleaf badge](https://img.shields.io/badge/thymeleaf-005F0F?logo=thymeleaf&logoColor=white&style=for-the-badge)]()
+[![h2 badge](https://img.shields.io/badge/hibernate-59666C?logo=hibernate&logoColor=white&style=for-the-badge)]()
+[![thymeleaf badge](https://img.shields.io/badge/thymeleaf-005F0F?logo=thymeleaf&logoColor=white&style=for-the-badge)]() <br>
 [![React badge](https://img.shields.io/badge/react-61DAFB?logo=React&logoColor=white&style=for-the-badge)]()
 [![vue badge](https://img.shields.io/badge/vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)]()
 [![React Native badge](https://img.shields.io/badge/React%20native-61DAFB?logo=React&logoColor=white&style=for-the-badge)]()
