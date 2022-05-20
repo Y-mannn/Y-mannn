@@ -2,9 +2,11 @@
 
 
 <div align=center>
+        
 # Welcome👋
         
 <h5>안녕하세요😄 백엔드 개발자 우인혁입니다.</h5>
+<h5>문의사항이 있으면 언제든지 연락주세요!!!</h5>
 <h5>📧sacrom@naver.com</h5>
         
 # ⚡Tech Stack⚡
@@ -33,18 +35,3 @@
 [![python badge](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge)]()
 [![intellij badge](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=IntelliJ%20IDEA&logoColor=white&style=for-the-badge)]()
 </div>
-
-<!--
-**Y-mannn/Y-mannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
