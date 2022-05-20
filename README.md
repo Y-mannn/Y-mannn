@@ -15,7 +15,7 @@
 [![thymeleaf badge](https://img.shields.io/badge/thymeleaf-005F0F?logo=thymeleaf&logoColor=white&style=for-the-badge)]()
 [![React badge](https://img.shields.io/badge/react-61DAFB?logo=React&logoColor=white&style=for-the-badge)]()
 [![vue badge](https://img.shields.io/badge/vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)]()
-[![React Native badge](https://img.shields.io/badge/react-61DAFB?logo=React-native&logoColor=white&style=for-the-badge)]()
+[![React Native badge](https://img.shields.io/badge/React-native-61DAFB?logo=React&logoColor=white&style=for-the-badge)]()
 [![jQuery badge](https://img.shields.io/badge/jquery-0769AD?logo=jquery&logoColor=white&style=for-the-badge)]()
 [![bootstrap badge](https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)]()
 
