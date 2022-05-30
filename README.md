@@ -35,3 +35,5 @@
 [![python badge](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge)]()
 [![intellij badge](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=IntelliJ%20IDEA&logoColor=white&style=for-the-badge)]()
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
