@@ -22,12 +22,12 @@
 [![React Native badge](https://img.shields.io/badge/React%20native-61DAFB?logo=React&logoColor=white&style=for-the-badge)]()
 
 ### IDE
+[![intellij badge](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=IntelliJ%20IDEA&logoColor=white&style=for-the-badge)]()
 [![eclipse badge](https://img.shields.io/badge/eclipse-2C2255?logo=eclipse&logoColor=white&style=for-the-badge)]() 
 [![vsc badge](https://img.shields.io/badge/visual%20studio%20code-007ACC?logo=visual%20studio%20code&logoColor=white&style=for-the-badge)]()
  
 ### Studying
 [![python badge](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge)]()
-[![intellij badge](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=IntelliJ%20IDEA&logoColor=white&style=for-the-badge)]()
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
