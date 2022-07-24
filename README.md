@@ -11,7 +11,7 @@
         
 # ⚡Tech Stack⚡
         
-### BEST
+### ⚡BEST⚡
 [![java badge](https://img.shields.io/badge/java-007396?logo=java&logoColor=white&style=for-the-badge)]()
 [![Spring badge](https://img.shields.io/badge/Spring%20Framework-6DB33F?logo=Spring&logoColor=white&style=for-the-badge)]()
 [![Boot badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring%20Boot&logoColor=white&style=for-the-badge)]()
