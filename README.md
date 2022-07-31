@@ -1,10 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=INHYUK%20WOO&fontSize=90)
-    
-## 👋Welcome👋
-        
-안녕하세요😄 **백엔드 개발자** 우인혁입니다.  
-✨문의사항✨이 있으면 언제든지 연락주세요!!!  
-📧sacrom@naver.com
+
+<div align=right>
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/%2Fhit-counter)
+
+</div>
+
+## 👋Intro👋
+
+- I'm a back-end developer.  
+- The main language is **Java**, and I'm developing mainly using **Spring Boot**.  
+- Recently, I've been studying **Cloud(AWS)**.  
+- Thank you.
+<br>
+
+[![Tech Blog Badge](http://img.shields.io/badge/Tech%20blog-black?style=flat-square&logo=Bloglovin&link=https://y-mannn.tistory.com/)](https://y-mannn.tistory.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Y-mannn)](https://www.linkedin.com/in/Y-mannn)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dndlsgur77@gmail.com)](mailto:dndlsgur77@gmail.com)
+<br>
 
 ## ⚡Tech Stack⚡
 
@@ -37,5 +50,9 @@
 [![intellij badge](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=IntelliJ%20IDEA&logoColor=white&style=for-the-badge)]()
 [![eclipse badge](https://img.shields.io/badge/eclipse-2C2255?logo=eclipse&logoColor=white&style=for-the-badge)]() 
 [![vsc badge](https://img.shields.io/badge/visual%20studio%20code-007ACC?logo=visual%20studio%20code&logoColor=white&style=for-the-badge)]()
+
+## 🙏Contribute🙏
+
+[![Y-mannn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y-mannn&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
