@@ -8,7 +8,7 @@
 
 ## 👋Intro👋
 
-- I'm a back-end developer.  
+- I'm a **back-end developer**.  
 - The main language is **Java**, and I'm developing mainly using **Spring Boot**.  
 - Recently, I've been studying **Cloud(AWS)**.  
 - Thank you.
