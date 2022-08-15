@@ -1,11 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=INHYUK%20WOO&fontSize=90)
 
-<div align=right>
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/%2Fhit-counter)
-
-</div>
-
 ## 👋Intro👋
 
 - I'm a **back-end developer**.  
@@ -54,5 +48,11 @@
 ## 🙏Contribute🙏
 
 [![Y-mannn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y-mannn&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align=right>
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/%2Fhit-counter)
+
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
